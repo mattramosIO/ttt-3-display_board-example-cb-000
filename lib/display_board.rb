@@ -5,4 +5,7 @@ def display_board
   divider = "-----------"
   puts row
   puts divider
+  puts row
+  puts divider
+  puts row
 end
